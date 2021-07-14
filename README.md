@@ -7,6 +7,6 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 
 Pamulapati Kirthana
 
-Frontend - HTML,CSS
-Backend - PHP,JAVASCRIPT
+Frontend - HTML,CSS <br>
+Backend - PHP,JAVASCRIPT <br>
 DATABASE - MYSQL
